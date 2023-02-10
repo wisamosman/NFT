@@ -80,3 +80,29 @@ color: white;
     border: 2px solid #42424D;
     border-radius: 10px;
 }
+.q12{
+    border-top:  3px solid #2C2C37;
+}
+.q13{
+    text-decoration: none;
+    color: white;
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+        font-weight: 600;
+        padding: 10px 20px;
+        background-color: #141420;
+        border: 2px solid white;
+        border-radius: 12px;
+}
+.q14{
+    font-weight: 700;
+    color: white;
+    font-size: 55px;
+    padding-top: 40px;
+}
+.q15{
+    color: #A09FAD;
+    font-size: 16px;
+    font-weight: 600;
+}
