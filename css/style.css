@@ -61,3 +61,22 @@ color: white;
     border-radius: 10px;
     margin-left: -100px;
 }
+.q10{
+    background-color: #141420;
+    
+    margin-top: -121px;
+}
+.q11{
+    border-top: 3px solid #2C2C37;
+}
+.card{
+    background-color: #2C2C39;
+    color: white;
+}
+.btn{
+    margin-left: 19px;
+    padding: 3px 90px 3px 88px;
+    background-color: #42424D;
+    border: 2px solid #42424D;
+    border-radius: 10px;
+}
