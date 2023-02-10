@@ -32,3 +32,32 @@ color: white;
     margin-right: 15px;
 
 }
+.q4{
+    font-weight: 700;
+    font-size: 45px;
+}
+.q5{
+    color: #A1A0AE;
+    font-size: 19px;
+}
+.q6{
+    color: white;
+    text-decoration: none;
+    border: 1px solid #4B3EE7;
+    padding: 13px 25px 13px 25px;
+    font-size: 17px;
+    font-weight: 700;
+    background-color: #4B3EE7;
+    border-radius: 10px;
+}
+
+.q7{
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 12px 25px 12px 25px;
+    font-size: 17px;
+    font-weight: 700;
+    border-radius: 10px;
+    margin-left: -100px;
+}
