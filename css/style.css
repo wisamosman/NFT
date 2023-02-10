@@ -7,4 +7,28 @@ color: white;
 }
 .nav-link{
     color: white;
+    font-weight: 600;
+    font-size: 17px;
+    margin-left: 20px;
+}
+
+.q2{
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 8px 20px 8px 20px;
+    font-size: 17px;
+    font-weight: 700;
+}
+.container{
+    padding-top: 13px;
+}
+.nav-item{
+    margin-left: 33px;
+}
+.q3{
+    margin-top: 10px;
+
+    margin-right: 15px;
+
 }
